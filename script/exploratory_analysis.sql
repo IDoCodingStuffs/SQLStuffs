@@ -1,0 +1,11 @@
+-- Get heads from each table
+SELECT TOP 5 * FROM sections;
+SELECT TOP 5 * FROM instructors;
+SELECT TOP 5 * FROM course_offerings;
+SELECT TOP 5 * FROM subject_memberships;
+SELECT TOP 5 * FROM courses;
+SELECT TOP 5 * FROM rooms;
+SELECT TOP 5 * FROM teachings;
+SELECT TOP 5 * FROM subjects;
+SELECT TOP 5 * FROM schedules;
+SELECT TOP 5 * FROM grade_distributions;
